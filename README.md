@@ -3,3 +3,4 @@
 | Day | Title                    | Keywords |
 | --- | ------------------------ | -------- |
 | 1   | [Secret Entrance](01.py) | -        |
+| 2   | [Gift Shop](02.py)       | -        |
